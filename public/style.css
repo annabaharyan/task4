@@ -1,0 +1,19 @@
+form{
+    width: 100%;
+    display: flex;
+    align-items: center;justify-content: center;
+    padding: 25px;
+}
+button{
+   background-color: blue;
+   border: 2px solid blue;
+   color: white;
+   border: none;
+   padding: 10px;
+}
+input{
+    border: 1px solid blue;
+    padding: 10px;
+    outline-color: rgb(114, 114, 216);
+    color:rgb(114, 114, 216) ;
+}
